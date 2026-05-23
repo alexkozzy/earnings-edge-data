@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T06:00:09.000Z",
+  "generated_at": "2026-05-23T17:35:12.000Z",
   "schema_version": 1,
   "signals": [
     {
@@ -7,7 +7,7 @@
       "ticker": "DY",
       "market_question": "Will Dycom Industries (DY) beat quarterly earnings?",
       "market_url": "https://polymarket.com/event/dy-quarterly-earnings-gaap-eps-05-20-2026-1pt35",
-      "recorded_at": "2026-05-23T06:00:07.000Z",
+      "recorded_at": "2026-05-23T17:35:08.000Z",
       "earnings_date": "2026-05-20",
       "tier": "C",
       "direction": "YES",
@@ -24,7 +24,7 @@
       "consensus_recently_revised": false,
       "resolved": false,
       "outcome": null,
-      "note": "model=0.908 | market=0.810 | liq=$170 | THIN",
+      "note": "model=0.908 | market=0.810 | liq=$183 | THIN",
       "options_predicted_prob": 0.6823,
       "options_implied_move_pct": 0.1518,
       "options_atm_iv": 0.7013,
