@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T21:18:06.000Z",
+  "generated_at": "2026-07-28T23:55:14.000Z",
   "schema_version": 1,
   "signals": [
     {
@@ -7,7 +7,7 @@
       "ticker": "TSEM",
       "market_question": "Will Tower Semiconductor (TSEM) beat quarterly earnings?",
       "market_url": "https://polymarket.com/event/tsem-quarterly-earnings-gaap-eps-08-04-2026-0pt67",
-      "recorded_at": "2026-07-28T21:17:33.000Z",
+      "recorded_at": "2026-07-28T23:55:11.000Z",
       "earnings_date": "2026-08-04",
       "tier": "B",
       "direction": "NO",
@@ -24,7 +24,7 @@
       "consensus_recently_revised": false,
       "resolved": false,
       "outcome": null,
-      "note": "model=0.718 | market=0.865 | liq=$1022",
+      "note": "model=0.718 | market=0.865 | liq=$985",
       "options_predicted_prob": 0.5425,
       "options_implied_move_pct": 0.1804,
       "options_atm_iv": 1.3028,
@@ -65,7 +65,7 @@
       "ticker": "WIX",
       "market_question": "Will Wix.com (WIX) beat quarterly earnings?",
       "market_url": "https://polymarket.com/event/wix-quarterly-earnings-nongaap-eps-08-04-2026-1pt21",
-      "recorded_at": "2026-07-28T21:17:33.000Z",
+      "recorded_at": "2026-07-28T23:55:11.000Z",
       "earnings_date": "2026-08-04",
       "tier": "A",
       "direction": "YES",
@@ -82,7 +82,7 @@
       "consensus_recently_revised": false,
       "resolved": false,
       "outcome": null,
-      "note": "model=0.768 | market=0.589 | liq=$694",
+      "note": "model=0.768 | market=0.589 | liq=$625",
       "options_predicted_prob": 0.4967,
       "options_implied_move_pct": 0.2015,
       "options_atm_iv": 0.9542,
